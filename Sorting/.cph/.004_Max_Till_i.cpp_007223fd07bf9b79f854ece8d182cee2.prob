@@ -1,0 +1,1 @@
+{"name":"Local: 004_Max_Till_i","url":"/home/ghans/Documents/GitHub/DS_ALGO_BASICS/Sorting/004_Max_Till_i.cpp","tests":[{"id":1624358640729,"input":"5\n0 1 2 3 4","output":"0 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ghans/Documents/GitHub/DS_ALGO_BASICS/Sorting/004_Max_Till_i.cpp","group":"local","local":true}
